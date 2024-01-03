@@ -20,8 +20,8 @@ Utilise les sockets pour faire le transfert de données.
 Si le fichier destination existe déja, le programme se charge de faire une copie paresseuse du document source.
 
 Réalisé par :
--EID Luigi (EIDL75070000)
--NAYERI POOR Ali (NAYA18019909)
+-EID Luigi 
+-NAYERI POOR Ali 
 **/
 
 /**
